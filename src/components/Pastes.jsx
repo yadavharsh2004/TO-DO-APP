@@ -5,7 +5,7 @@ import toast from 'react-hot-toast';
 import { Link } from 'react-router-dom';
 import {FormatDate} from '../utils/formatDate'
 import { Calendar, Copy, Eye, PencilLine, Trash2 } from "lucide-react";
-import {FacebookIcon, WhatsappIcon, WhatsappShareButton} from 'react-share'
+import { WhatsappIcon, WhatsappShareButton} from 'react-share'
 
 const Pastes = () => {
   const pastes = useSelector((state)=>state.paste.pastes);
