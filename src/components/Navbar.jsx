@@ -16,7 +16,7 @@ const Navbar = () => {
           to='/'>
             Home
           </NavLink>
-          console.log("Hello");
+          {/* console.log("Hello"); */}
           <NavLink 
           to='/pastes'>
             Paste
