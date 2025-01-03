@@ -10,9 +10,4 @@ export default defineConfig({
       plugins: [tailwindcss()],
     },
   },
-  build: {
-    rollupOptions: {
-      external: ["react-redux"], // Externalizing react-redux if needed
-    },
-  },
 });
