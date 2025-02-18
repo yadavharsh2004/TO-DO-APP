@@ -2,6 +2,9 @@
 
 # React + Vite
 
+Checkout live project here:
+https://to-do-app-4xkv.vercel.app/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
